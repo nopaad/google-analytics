@@ -1,5 +1,5 @@
 {
-  "name": "nopaad/laravel-analytics",
+  "name": "nopaad/google-analytics",
   "description": "A Laravel 5 package to retrieve Google Analytics data.",
   "keywords": [
     "nopaad",
@@ -9,7 +9,7 @@
     "reports",
     "laravel"
   ],
-  "homepage": "https://github.com/nopaad/laravel-analytics",
+  "homepage": "https://github.com/nopaad/google-analytics",
   "license": "MIT",
   "authors": [
     {
