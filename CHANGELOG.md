@@ -21,9 +21,9 @@ All Notable changes to Laravel-Analytics will be documented in this file
 ## 2.0.0 - 2016-06-20
 
 - refactored all methods
-- introduced `Spatie\Analytics\Period` to specify date ranges
+- introduced `Nopaad\Analytics\Period` to specify date ranges
 - the package now uses json credentials instead of .p12 file
-- the `Spatie\Analytics\Analtyics` class is much easier to extend
+- the `Nopaad\Analytics\Analtyics` class is much easier to extend
 
 ## 1.4.1 - 2016-05-12
 
@@ -45,7 +45,7 @@ All Notable changes to Laravel-Analytics will be documented in this file
 - Fix PHP 5.4 compatibility
 
 ## 1.2.2
-- An injected `Spatie\LaravelAnalytics\LaravelAnalytics`-object will now be properly configured
+- An injected `Nopaad\LaravelAnalytics\LaravelAnalytics`-object will now be properly configured
 
 ## 1.2.1
 - Removed a var_dump-call that was not supposed to be there

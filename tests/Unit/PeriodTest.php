@@ -1,11 +1,11 @@
 <?php
 
-namespace Spatie\Analytics\Tests;
+namespace Nopaad\Analytics\Tests;
 
 use Carbon\Carbon;
 use PHPUnit_Framework_TestCase;
-use Spatie\Analytics\Exceptions\InvalidPeriod;
-use Spatie\Analytics\Period;
+use Nopaad\Analytics\Exceptions\InvalidPeriod;
+use Nopaad\Analytics\Period;
 
 class PeriodTest extends PHPUnit_Framework_TestCase
 {

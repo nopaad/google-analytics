@@ -35,12 +35,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Spatie\\Analytics\\": "src"
+      "Nopaad\\Analytics\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Spatie\\Analytics\\Tests\\": "tests"
+      "Nopaad\\Analytics\\Tests\\": "tests"
     }
   }
 }
