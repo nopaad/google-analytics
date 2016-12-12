@@ -78,6 +78,6 @@ class AnalyticsClient
      */
     protected function determineCacheName(array $properties): string
     {
-        return 'spatie.laravel-analytics.'.md5(serialize($properties));
+        return 'nopaad.laravel-analytics.'.md5(serialize($properties));
     }
 }

@@ -1,20 +1,20 @@
 {
-  "name": "spatie/laravel-analytics",
+  "name": "nopaad/laravel-analytics",
   "description": "A Laravel 5 package to retrieve Google Analytics data.",
   "keywords": [
-    "spatie",
+    "nopaad",
     "google",
     "analytics",
     "retrieve",
     "reports",
     "laravel"
   ],
-  "homepage": "https://github.com/spatie/laravel-analytics",
+  "homepage": "https://github.com/nopaad/laravel-analytics",
   "license": "MIT",
   "authors": [
     {
       "name": "Freek Van der Herten",
-      "email": "freek@spatie.be",
+      "email": "freek@nopaad.be",
       "homepage": "https://murze.be",
       "role": "Developer"
     }
