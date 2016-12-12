@@ -1,3 +1,6 @@
+# Credits
+All credits goes to spatie/laravel-analytics. This package has been created because we just needed some modification to be used in Iran.
+
 #  Retrieve data from Google Analytics
 
 [![Latest Version](https://img.shields.io/github/release/nopaad/google-analytics.svg?style=flat-square)](https://github.com/nopaad/google-analytics/releases)
